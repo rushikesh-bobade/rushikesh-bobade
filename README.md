@@ -1,7 +1,7 @@
 # <p align="center">✨ Rushikesh Bobade ✨</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=3rd+Year+Computer+Engineering+Student;Software+Engineer+Intern;Full+Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Software+Engineer+Intern;Full+Stack+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,8 +14,6 @@
 ---
 
 ### 🏛️ Professional Overview
-- 🎓 **Academic:** **3rd Year Computer Engineering Student** @ RSCOE, Pune (CGPA: 9.01/10.0).
-- 💻 **Industry:** **React Front End Intern** @ **Sadhana IT Solutions Pvt. Ltd.**
 - 🏆 **Achievement:** **1st Rank Winner** at Tech X 2024 (Algorithm Space-Time Optimization).
 - ⚖️ **Intellectual Property:** Registered **Copyright Holder** for AI-driven Agricultural Systems.
 - 🚀 **Goal:** Bridging the gap between **Software Engineering** and **Data Science**.
