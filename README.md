@@ -59,5 +59,5 @@
 
 <p align="center">
   <i>"Simplicity is the soul of efficiency."</i><br>
-  <b>Open to impactful collaborations and internship opportunities!</b>
+  <b>Open to impactful collaborations.</b>
 </p>
